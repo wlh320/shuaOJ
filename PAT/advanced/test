@@ -1,0 +1,5 @@
+#!/bin/sh
+rm a.out >/dev/null 2>&1 
+g++ $1.cpp
+./a.out
+rm a.out >/dev/null 2>&1 
