@@ -19,7 +19,7 @@ T End Date : ----/--/--
 | Type   | Solved | All |  Note  |
 | ------ |:------:| :---| ------ |
 | Basic  |   70   | 70  | 简单题  |
-|Advanced|   48   | 131 | 正常题  |
+|Advanced|   68   | 131 | 正常题  |
 | Top    |   0    | 17  |  难题   |
 
 ## Solution
