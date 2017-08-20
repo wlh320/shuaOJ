@@ -19,7 +19,7 @@ T End Date : ----/--/--
 | Type   | Solved | All |  Note  |
 | ------ |:------:| :---| ------ |
 | Basic  |   70   | 70  | 简单题  |
-|Advanced|   68   | 131 | 正常题  |
+|Advanced|   88   | 131 | 正常题  |
 | Top    |   0    | 17  |  难题   |
 
 ## Solution
@@ -36,18 +36,20 @@ T End Date : ----/--/--
 
     跟Basic一样的水题 + 常用数据结构 + 经典算法
 
-    Tree: 1004
+    Tree: 1004 1099 1102 1110 1130
 
-    Graph: 1003
+    Graph: 1003 1122 1126
 
     Queue:
 
-    Stack: 
+    Stack: 1051
     
     BFS:
 
     DFS:
 
-    Greedy: 1125
+    Greedy: 1067 1125
 
     DP: 1007
+
+    Union Find: 1013 1107 1118 1126
