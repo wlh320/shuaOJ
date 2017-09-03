@@ -1,3 +1,5 @@
+// 求最短路径的个数, 同时求点权值最大的最短路径
+// 测试点较小, DFS也不会超时
 #include <cstdio>
 #include <algorithm>
 #include <vector>
