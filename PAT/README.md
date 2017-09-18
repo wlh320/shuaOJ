@@ -18,8 +18,8 @@ T End Date : ----/--/--
 
 | Type   | Solved | All |  Note  |
 | ------ |:------:| :---| ------ |
-| Basic  |   70   | 70  | 简单题  |
-|Advanced|   131  | 131 | 正常题  |
+| Basic  |   75   | 75  | 简单题  |
+|Advanced|   134  | 135 | 正常题  |
 | Top    |   0    | 17  |  难题   |
 
 ## Solution
