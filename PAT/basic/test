@@ -1,5 +1,5 @@
 #!/bin/sh
-rm a.out >/dev/null 2>&1 
-g++ $1.cpp
+rm a.out >/dev/null 2>&1
+g++ -fno-tree-ch -O2 -Wall -std=c++11 -lm $1.cpp
 ./a.out
-rm a.out >/dev/null 2>&1 
+rm a.out >/dev/null 2>&1
