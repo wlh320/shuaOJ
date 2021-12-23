@@ -24,7 +24,7 @@ fn enhance(
     w: isize,
 ) -> HashSet<(isize, isize)> {
     let mut next: HashSet<(isize, isize)> = HashSet::new();
-    let bb = 100; // add large boarder, dont know why but it works, right way is using HashMap rather than HashSet
+    let bb = 100; // add large border (stupid way to handle flipping of border pixels)
     for i in 0 - step - bb..h + step + bb {
         for j in 0 - step - bb..w + step + bb {
             if enhance_pixel(&set, pat, i, j) {
